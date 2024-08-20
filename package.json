@@ -76,5 +76,6 @@
   },
   "resolutions": {
     "@tanstack/virtual-core": "3.9.0"
+    "glob": "^11.0.0"
   }
 }
